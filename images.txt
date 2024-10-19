@@ -1,3 +1,4 @@
+redis
 nginx
 busybox
 mysql:5.7.31
