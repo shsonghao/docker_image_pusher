@@ -1,3 +1,4 @@
+apache/dolphinscheduler-standalone-server:3.2.2
 redis
 nginx
 busybox
