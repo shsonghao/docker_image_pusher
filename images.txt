@@ -1,6 +1,7 @@
 apache/dolphinscheduler-standalone-server:3.2.2
 codeskyblue/gohttpserver:1.1.0
 gists/frp:0.62.1
+gists/frp:0.52.3
 mongo:5.0.30
 redis
 nginx
