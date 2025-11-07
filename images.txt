@@ -9,6 +9,7 @@ busybox
 mysql:5.7.31
 mysql:8.4.3
 mysql:8.0.33
+bde2020/hive:2.3.2
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
